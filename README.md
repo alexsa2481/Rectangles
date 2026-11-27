@@ -14,4 +14,5 @@ This project contains a command-line utility to analyze certain features of rect
 - There is also a distinct case of equal rectangles.
 - In case of one rectangle is contained inside the other and, at the same time, adjacent to it (see test case Contain3), the program returns Contain message - "Rectangle x is inside rectangle y".
 - There is Docs/Test.jpg file included - illustration on test cases, with each picture describing corresponding unit test.
+- There is Docs/Intersect.jpg - illustration on finding border crossings.
  
